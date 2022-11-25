@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.mycompany.app","c":"AppTest","l":"AppTest()","u":"%3Cinit%3E()"},{"p":"com.mycompany.app","c":"AppTest","l":"shouldAnswerWithTrue()"}];updateSearchResults();
